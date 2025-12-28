@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/karagreen/static/css/main.f91236d3.css",
+    "main.js": "/karagreen/static/js/main.04d8bd13.js",
+    "index.html": "/karagreen/index.html",
+    "main.f91236d3.css.map": "/karagreen/static/css/main.f91236d3.css.map",
+    "main.04d8bd13.js.map": "/karagreen/static/js/main.04d8bd13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f91236d3.css",
+    "static/js/main.04d8bd13.js"
+  ]
+}
