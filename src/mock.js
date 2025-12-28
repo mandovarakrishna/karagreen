@@ -4,7 +4,7 @@ export const companyInfo = {
   name: 'KARAGREEN',
   tagline: 'Turning Waste into Dependable Energy',
   email: 'info@karagreen.com',
-  phone: '+91 98765 43210',
+  phone: '+91 98765 xxxxx',
   address: 'Industrial Area, India',
 };
 
