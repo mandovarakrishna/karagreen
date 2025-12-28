@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/karagreen/static/css/main.f91236d3.css",
-    "main.js": "/karagreen/static/js/main.9b359e17.js",
+    "main.js": "/karagreen/static/js/main.f447cef3.js",
     "index.html": "/karagreen/index.html",
     "main.f91236d3.css.map": "/karagreen/static/css/main.f91236d3.css.map",
-    "main.9b359e17.js.map": "/karagreen/static/js/main.9b359e17.js.map"
+    "main.f447cef3.js.map": "/karagreen/static/js/main.f447cef3.js.map"
   },
   "entrypoints": [
     "static/css/main.f91236d3.css",
-    "static/js/main.9b359e17.js"
+    "static/js/main.f447cef3.js"
   ]
 }
