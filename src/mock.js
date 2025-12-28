@@ -1,7 +1,7 @@
 // Mock data for Karagreen website
 
 export const companyInfo = {
-  name: 'Karagreen',
+  name: 'KARAGREEN',
   tagline: 'Turning Waste into Dependable Energy',
   email: 'info@karagreen.com',
   phone: '+91 98765 43210',

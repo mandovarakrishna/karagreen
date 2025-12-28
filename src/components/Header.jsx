@@ -18,7 +18,10 @@ const Header = () => {
     { path: '/buyers', label: 'For Buyers' },
   ];
 
-  const isActive = (path) => location.pathname === path;
+const currentPath = location.hash.replace("#", "") || "/";
+
+const isActive = (path) => currentPath === path;
+
 
   return (
     <header className="bg-white border-b border-gray-200 sticky top-0 z-50">
