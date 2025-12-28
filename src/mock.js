@@ -1,5 +1,3 @@
-// Mock data for Karagreen website
-
 export const companyInfo = {
   name: 'KARAGREEN',
   tagline: 'Turning Waste into Dependable Energy',
