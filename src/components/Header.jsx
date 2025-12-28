@@ -33,7 +33,7 @@ const isActive = (path) => currentPath === path;
               <Leaf className="h-6 w-6 text-white" />
             </div>
             <div>
-              <h1 className="text-2xl font-bold text-gray-900">Karagreen</h1>
+              <h1 className="text-2xl font-bold text-gray-900">KÂRAGreen</h1>
               <p className="text-xs text-gray-600">Waste to Energy</p>
             </div>
           </Link>
